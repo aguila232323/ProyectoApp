@@ -1,8 +1,13 @@
 
+bbdd.properties
+
 PORT=3306
 BBDD=RecetasDB
 USER=admin
 PWD=mqlN61Sym7DT
+
+
+ip.properties
 
 
 IP=localhost
